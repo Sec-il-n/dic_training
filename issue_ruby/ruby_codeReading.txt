@@ -1,0 +1,26 @@
+① empty_seat変数 = A
+② seats_count変数 = A
+③ number_of_visitors変数 = E
+④ users変数 = F
+⑤ seating_number変数 = F
+⑥ fill_last_number変数 = E
+
+
+以下正解コードの読み取り記入致します。
+A=8
+B=10
+C=13
+D=11
+E=15
+F=4
+G=6
+H=12
+I=9
+J=14
+K=3
+L=2
+M=5
+N=1
+O=17
+P=1
+Q=16
