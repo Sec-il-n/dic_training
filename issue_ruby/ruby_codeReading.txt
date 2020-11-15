@@ -1,4 +1,4 @@
-① empty_seat変数 = A
+① empty_seat変数 = C
 ② seats_count変数 = A
 ③ number_of_visitors変数 = E
 ④ users変数 = F
@@ -20,7 +20,7 @@ J=14
 K=3
 L=2
 M=5
-N=1
+N=7
 O=17
 P=1
 Q=16
